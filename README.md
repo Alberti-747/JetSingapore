@@ -1,2 +1,3 @@
 # JetSingapore
-JetSingapore GeoFS VA for LiverySelector
+JetSingapore GeoFS VA for Livery Selector.
+### This is on behalf of Cleanseash, the VA owner.
